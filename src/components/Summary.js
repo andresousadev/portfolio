@@ -5,7 +5,7 @@ const Summary = () => {
     <div className="summary text-2xl float-left opacity-50 my-5">
       FullStack Web developer with 2 years of experience
       <br />
-      Passionate about software development, and eager to learnnew technologies
+      Passionate about software development, and eager to learn new technologies
       <br />My favourite language is
       <div className="preferred-language inline-block h-6 w-6 ml-4">
         <img

@@ -10,7 +10,7 @@ const MainContent = () => {
         <Salutation />
         <Person />
         <Summary />
-        <Button classes="hire-me bg-gray-500 float-left py-3 px-14 text-2xl rounded-sm" content={<a href="mailto:andresousa.andresousa@gmail.com">Hire Me</a>}/>
+        <Button classes="hire-me bg-gray-500 float-left rounded-sm" content={<a href="mailto:andresousa.andresousa@gmail.com" className="block py-3 px-14 text-2xl">Hire Me</a>}/>
       </div>
     </div>
   );
